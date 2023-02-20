@@ -1,6 +1,5 @@
 
 # This Dataquest project goal's is to analyze data from a sales records database for scale model cars and extract information for decision making 
-
 ## The database contains eight tables:
 
 * Customers: customer data
