@@ -15,20 +15,6 @@
 
 ## 1. To create an overview of tables, with the name, number of attributes and number of rows of each table, as below
 
-<style>
-    .heatMap {
-        width: 70%;
-        text-align: center;
-    }
-    .heatMap th {
-        background: blue;
-        word-wrap: break-word;
-        text-align: center;
-    }
-</style>
-
-<div class="heatMap">
-
 | table_name  | number_of_attributes | number_of_rows |
 | ----------- | -------------------- | ---------------|
 | Customers   | 13                   |            122 |
